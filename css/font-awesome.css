@@ -14,29 +14,29 @@
 .fa {
   display: inline-block;
   font-family: FontAwesome;
-  font-style: normal;
-  font-weight: normal;
+  font-style: italic;
+  font-weight: bold;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
-  font-size: 1.3333333333333333em;
+  font-size: 1.5em;
   line-height: 0.75em;
-  vertical-align: -15%;
+  vertical-align: -12%;
 }
 .fa-2x {
   font-size: 2em;
 }
 .fa-3x {
-  font-size: 3em;
+  font-size: 2.5em;
 }
 .fa-4x {
-  font-size: 4em;
+  font-size: 3em;
 }
 .fa-5x {
-  font-size: 5em;
+  font-size: 4.5em;
 }
 .fa-fw {
   width: 1.2857142857142858em;
